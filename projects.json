@@ -1,12 +1,23 @@
-[{
-    "name": "Project 1 - Neon Trivia",
-    "live": "https://project-1-retro-trivia.netlify.app/",
-    "git": "https://github.com/jeffreygreenjr/Project-1-Trivia.git",
-    "image": "https://i.imgur.com/qS2PsJD.png"
-},
-{
-    "name": "Project 2 - Elon Musk's Twitter",
-    "live": "https://glacial-basin-38209.herokuapp.com/",
-    "git": "https://github.com/Arishamays1/Project_2",
-    "image": "https://i.imgur.com/ZkaGo48.png"
-}]
+[
+    {
+        "name": "Elon Musk's Twitter",
+        "about": "Reverse engineered a full-stack web application that utilizes full CRUD operations as well user authorization/authentication enabling users to create an account, post tweets, and like/comment on any user's tweets.",
+        "live": "https://glacial-basin-38209.herokuapp.com/",
+        "git": "https://github.com/Arishamays1/Project_2",
+        "image": "https://i.imgur.com/ZkaGo48.png"
+    },
+    {
+        "name": "Explore Marvel Universe",
+        "about": "Developed a modular and modern frontend React application fetching data from a third-party RESTful API requiring public, private, and a MD5 hash key encryption.",
+        "live": "https://glacial-basin-38209.herokuapp.com/",
+        "git": "https://github.com/Arishamays1/Project_2",
+        "image": "https://i.imgur.com/ZkaGo48.png"
+    },
+    {
+        "name": "Car Collector App",
+        "about": "Built a full-stack web application with python servers and PostgreSQL databases with the full-featured framework Django styled with BUlma, a CSS framework.",
+        "live": "https://glacial-basin-38209.herokuapp.com/",
+        "git": "https://github.com/Arishamays1/Project_2",
+        "image": "https://i.imgur.com/ZkaGo48.png"
+    }
+]
