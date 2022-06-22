@@ -9,15 +9,15 @@
     {
         "name": "Explore Marvel Universe",
         "about": "Developed a modular and modern frontend React application fetching data from a third-party RESTful API requiring public, private, and a MD5 hash key encryption.",
-        "live": "https://glacial-basin-38209.herokuapp.com/",
-        "git": "https://github.com/Arishamays1/Project_2",
-        "image": "https://i.imgur.com/ZkaGo48.png"
+        "live": "https://jeffreygreen-marvel-react-api.netlify.app",
+        "git": "https://github.com/jeffreygreenjr/Project3-React-Marvel",
+        "image": "https://user-images.githubusercontent.com/102068506/169447980-fb84a6b1-3195-4e2b-b563-82024645846b.png"
     },
     {
         "name": "Car Collector App",
         "about": "Built a full-stack web application with python servers and PostgreSQL databases with the full-featured framework Django styled with BUlma, a CSS framework.",
-        "live": "https://glacial-basin-38209.herokuapp.com/",
-        "git": "https://github.com/Arishamays1/Project_2",
-        "image": "https://i.imgur.com/ZkaGo48.png"
+        "live": "https://jeffreygreen-cars-collector.herokuapp.com/",
+        "git": "https://github.com/jeffreygreenjr/django_cars_collector",
+        "image": "https://user-images.githubusercontent.com/102068506/171906132-bda8a863-841e-40b8-b486-3d3e6e2da295.jpg"
     }
 ]
